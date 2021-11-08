@@ -1,0 +1,11 @@
+{
+    "name": "Arthur",
+    "surname": "Pendragon",
+    "email": "pendragon.arthur@kaamelott.com",
+    "address": {
+        "city": "Saint Pierre des Corps",
+        "street": "place de la Gare",
+        "number": "2",
+        "postcode": "37700"
+    }
+}
